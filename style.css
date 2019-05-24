@@ -1,0 +1,7 @@
+.Header__list{
+    display: flex;
+}
+
+.Header__item{
+    flex-basis: 100px;
+}
